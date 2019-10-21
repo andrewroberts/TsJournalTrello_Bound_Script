@@ -1,0 +1,12 @@
+{
+  "timeZone": "Europe/London",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "TsJounalTrello",
+      "libraryId": "1CyfwAlv1CSqWT7ksYIOCYpKySqW3RTyOm9SsAsAcl7oqChfF2aYhl6iT",
+      "version": "1",
+      "developmentMode": true
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
