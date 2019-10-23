@@ -2,9 +2,14 @@
   "timeZone": "Europe/London",
   "dependencies": {
     "libraries": [{
-      "userSymbol": "TsJounalTrello",
-      "libraryId": "1CyfwAlv1CSqWT7ksYIOCYpKySqW3RTyOm9SsAsAcl7oqChfF2aYhl6iT",
-      "version": "1",
+      "userSymbol": "BBLog",
+      "libraryId": "1kzzYZhgODZluRmjsjh7t3O-ftmFAF9h1jaRHU0rOdf9irF0VUiJW33Kt",
+      "version": "13",
+      "developmentMode": true
+    }, {
+      "userSymbol": "Assert",
+      "libraryId": "1R-rxUHuQU0ez95FlZz9fxqifbYFszHnukqzv_3Uk5zM3eG4eRBrh_E1M",
+      "version": "16",
       "developmentMode": true
     }]
   },
